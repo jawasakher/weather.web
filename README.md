@@ -6,9 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Production--Ready-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-<p align="center">
-  <img src="./public/weather-preview.png" alt="Weather App Preview" width="850"/>
-</p>
+
 
 ## Project Overview
 
@@ -84,7 +82,7 @@ This project uses an external weather API (like OpenWeatherMap).
 1. Register for an API key  
 2. Create a .env file in the root:
 
-VITE_WEATHER_API_KEY=your_api_key_here
+VITE_WEATHER_API_KEY=24041d143f71b730b6b3c8d1ccd92691
 3. Restart the dev server
 
 ---
