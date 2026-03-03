@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 <p align="center">
-  <img src="weather-preview.png" alt="Weather App Preview" width="850"/>
+  <img src="weather-preview.jpg" alt="Weather App Preview" width="850"/>
 </p>
 
 ## Project Overview
