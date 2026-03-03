@@ -6,7 +6,9 @@
 ![Status](https://img.shields.io/badge/Status-Production--Ready-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-
+<p align="center">
+  <img src="weather-preview.png" alt="Weather App Preview" width="850"/>
+</p>
 
 ## Project Overview
 
